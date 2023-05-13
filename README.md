@@ -23,15 +23,12 @@
 - Unity
 - Visual Studio Code
 
-### Footer
-<a id="desc1">
+<a id="desc1"></a>
+#### 
 <sup>1 - I know how to use it but didn't go deep into it.</sup>
-</a>
-<br>
-<a id="desc2">
+<a id="desc2"></a>
+#### 
 <sup>2 - It's been a long while since i last touched it</sup>
-</a>
-<br>
-<a id="desc3">
+<a id="desc3"></a>
+#### 
 <sup>3 - I'm new to it, but i'm not half bad with it</sup>
-</a>
