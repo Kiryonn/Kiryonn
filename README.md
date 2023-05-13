@@ -1,3 +1,7 @@
+Hello! Online I am refered to as "Kiryonn".<br>
+I Just finished my 1st year of master in game dev in France and am looking for a block release training.<br>
+Here is a list of things i worked with:
+
 ### Languages
 
 - C
@@ -23,7 +27,6 @@
 - Unity
 - Visual Studio Code
 
-<br>
 <br>
 <a id="desc1"></a>
 <sup>1 - I know how to use it but didn't go deep into it.</sup>
