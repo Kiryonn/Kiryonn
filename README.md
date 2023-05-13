@@ -23,5 +23,9 @@
 - Unity
 - Visual Studio Code
 
-<sup><a name="desc-tech-1">1</a> - i know how to use it but didn't go deep.</sup><br>
-<sup><a name="desc-tech-2">2</a> - </sup> 
+<a name="desc-tech-1">
+<sup>1 - i know how to use it but didn't go deep.</sup>
+</a>
+<a name="desc-tech-2">
+<sup>2 - </sup>
+</a>
