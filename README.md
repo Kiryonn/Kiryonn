@@ -12,6 +12,7 @@ Here is a list of things i worked with:
 - GDScript
 - Java [<sup>2</sup>](#desc2)
 - Javascript [<sup>1</sup>](#desc1)
+- JSON
 - Markdown
 - Python
 - XML
@@ -19,6 +20,7 @@ Here is a list of things i worked with:
 
 ### Technologies
 
+- Arduino
 - Blender [<sup>3</sup>](#desc3)
 - Godot
 - Idea
