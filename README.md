@@ -23,5 +23,5 @@
 - Unity
 - Visual Studio Code
 
-<sup>1</sup> i know how to use it but didn't go deep.
-<sup>2</sup> 
+<sup>1 - i know how to use it but didn't go deep.</sup><br>
+<sup>2 - </sup> 
