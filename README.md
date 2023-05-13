@@ -37,5 +37,5 @@ Here is a list of things i worked with:
 <sup>2 - It's been a long while since i last touched it</sup>
 <br>
 <a id="desc3"></a>
-<sup>3 - I'm new to it, but i'm not half bad with it</sup>
+<sup>3 - I'm new to it, but i'm not half bad with it, although i'm slow</sup>
 <br>
