@@ -24,6 +24,9 @@ Here is a list of things i worked with:
 - Blender [<sup>3</sup>](#desc3)
 - Godot
 - Idea
+- Inkscape [<sup>1</sup>](#desc1)
+- Krita [<sup>1</sup>](#desc1)
+- Paint.net
 - Pycharm
 - Rider
 - Unity
