@@ -22,6 +22,9 @@ Here is a list of things i worked with:
 
 - Arduino
 - Blender [<sup>3</sup>](#desc3)
+- Git
+- GitHub
+- GitHub Desktop
 - Godot
 - Idea
 - Inkscape [<sup>1</sup>](#desc1)
