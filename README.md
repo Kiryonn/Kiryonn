@@ -1,16 +1,27 @@
-### Hi there 👋
+### Languages
 
-<!--
-**Kiryonn/Kiryonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- C
+- C#
+- C++
+- CSS[<sup>1</sup>](#<sup>1)
+- HTML
+- GDScript
+- Java[<sup>2</sup>](#<sup>2)
+- Javascript (almost no knowledge)
+- Markdown
+- Python
+- XML
+- YML
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Blender (new to it but not half bad)
+- Godot
+- Idea
+- Pycharm
+- Rider
+- Unity
+- Visual Studio Code
+
+<sup>1</sup> i know how to use it but didn't go deep.
+<sup>2</sup> 
