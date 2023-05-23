@@ -14,6 +14,7 @@ Here is a list of things i worked with:
 - Javascript [<sup>1</sup>](#desc1)
 - JSON
 - Markdown
+- OCaml
 - Python
 - XML
 - YML
