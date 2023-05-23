@@ -28,9 +28,11 @@ Here is a list of things i worked with:
 - GitHub Desktop
 - Godot
 - Idea
+- Illustrator
 - Inkscape [<sup>1</sup>](#desc1)
 - Krita [<sup>1</sup>](#desc1)
 - Paint.net
+- Photoshop
 - Pycharm
 - Rider
 - Unity
