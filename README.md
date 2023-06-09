@@ -1,8 +1,3 @@
-<style>
-#talent tbody tr td {
-  vertical-align: top;
-}
-</style>
 Hello! Online I am refered to as "Kiryonn".<br>
 I Just finished my 1st game dev master year in France and am looking for a block release training.<br>
 Here is a list of things i worked with:
