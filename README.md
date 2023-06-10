@@ -22,6 +22,7 @@ Here is a list of things i worked with:
           <li>Java <a href="#desc2"><sup>2</sup></a></li>
           <li>Javascript <a href="#desc1"><sup>1</sup></li>
           <li>JSON</li>
+          <li>Lua</li>
           <li>Markdown</li>
           <li>OCaml</li>
           <li>Python</li>
