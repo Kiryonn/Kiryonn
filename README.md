@@ -26,6 +26,7 @@ Here is a list of things i worked with:
           <li>Markdown</li>
           <li>OCaml</li>
           <li>Python</li>
+          <li>TOML</li>
           <li>XML</li>
           <li>YML</li>
         </ul>
