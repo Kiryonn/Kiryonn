@@ -35,8 +35,8 @@ Here is a list of things i worked with (sorted alphabetically):
 - Visual Studio Code
 
 ## Game Engines
-- Unity
 - Godot
+- Unity
 
 ## Versionning tools
 - Git
