@@ -1,5 +1,5 @@
 Hello! Online I am refered to as "Kiryonn".<br>
-I Just finished my 1st game dev master year in France and am looking for a block release training.<br>
+I Just started my 2nd game dev master year.<br>
 Here is a list of things i worked with:
 
 
@@ -19,8 +19,8 @@ Here is a list of things i worked with:
           <li>CSS</li>
           <li>HTML</li>
           <li>GDScript</li>
-          <li>Java <a href="#desc2"><sup>2</sup></a></li>
-          <li>Javascript <a href="#desc1"><sup>1</sup></li>
+          <li>Java</li>
+          <li>Javascript</li>
           <li>JSON</li>
           <li>Lua</li>
           <li>Markdown</li>
@@ -34,14 +34,14 @@ Here is a list of things i worked with:
       <td>
         <ul>
           <li>Arduino</li>
-          <li>Blender <a href="#desc3"><sup>3</sup></a></li>
+          <li>Blender</li>
           <li>Git</li>
           <li>GitHub</li>
           <li>GitHub Desktop</li>
           <li>Godot</li>
           <li>Idea</li>
           <li>Illustrator</li>
-          <li>Inkscape <a href="#desc1"><sup>1</sup></a></li>
+          <li>Inkscape</li>
           <li>Krita</li>
           <li>Paint.net</li>
           <li>Photoshop</li>
@@ -54,14 +54,3 @@ Here is a list of things i worked with:
     </tr>
   </tbody>
 </table>
-
-<br>
-<a id="desc1"></a>
-<sup>1 - I know how to use it but didn't go deep into it.</sup>
-<br>
-<a id="desc2"></a>
-<sup>2 - It's been a long while since i last touched it</sup>
-<br>
-<a id="desc3"></a>
-<sup>3 - I'm new to it, but i'm not half bad with it, although i work slowly with it</sup>
-<br>
