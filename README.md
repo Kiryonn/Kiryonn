@@ -40,6 +40,7 @@ Here is a list of things i worked with (sorted alphabetically):
 
 ## Versionning tools
 - Git
+- Git Kraken
 - GitHub
 - GitHub Desktop
 
