@@ -38,7 +38,7 @@ Here is a list of things i worked with (sorted alphabetically):
 - Godot
 - Unity
 
-## Versionning tools
+## Versionning Tools
 - Git
 - Git Kraken
 - GitHub
