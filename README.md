@@ -63,4 +63,4 @@ Here is a list of things i worked with (sorted alphabetically):
 Coming soon
 
 ### Tracteur en selle
-![Tracteur en selle](images/Tracteur%20en%20selle.jpg)
+<img src="images/Tracteur%20en%20selle.jpg" width="60%" />
