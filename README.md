@@ -66,8 +66,6 @@ Image comming soon TM
 
 ## Tracteur en selle
 <img src="images/Tracteur%20en%20selle.jpg" width="60%" align="right"/>
-&emsp;A Serious game commissioned by the MSA (Mutuelle Santé Agricole) to present on a convention stand. It uses custom made equipments (modified exercise bike).
-
-&emsp;Players can move arround by pedaling to charge the batery of the tractor and use the motorbike potentiometer implemented on the exercise bike to accelerate. They are given tasks that they must complete within the time limit in order to win the game.
-
+&emsp;A Serious game commissioned by the MSA (Mutuelle Santé Agricole) to present on a convention stand. It uses custom made equipments (modified exercise bike).<br>
+&emsp;Players can move arround by pedaling to charge the batery of the tractor and use the motorbike potentiometer implemented on the exercise bike to accelerate. They are given tasks that they must complete within the time limit in order to win the game.<br>
 &emsp;The time limit was implemented in order to prevent people from staying too long on the stand.
