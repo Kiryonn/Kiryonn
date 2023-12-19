@@ -60,7 +60,13 @@ Here is a list of things i worked with (sorted alphabetically):
 
 # Projects
 ## PAC
-Coming soon
+A VR E-Learning in which students build a PEMFC then use it to move a car on a track model.
+Images comming soon TM
 
 ## Tracteur en selle
-<img src="images/Tracteur%20en%20selle.jpg" width="60%" />
+<img src="images/Tracteur%20en%20selle.jpg" width="60%" align="right"/>
+&emsp;A Serious game commissioned by the MSA (Mutuelle Santé Agricole) to present on a convention stand. It uses custom made equipments (modified exercise bike).
+
+&emsp;Players can move arround by pedaling to charge the batery of the tractor and use the motorbike potentiometer implemented on the exercise bike to accelerate. They are given tasks that they must complete within the time limit in order to win the game.
+
+The time limit was implemented in order to prevent people from staying too long on the stand.
