@@ -60,7 +60,7 @@ Here is a list of things i worked with (sorted alphabetically):
 
 # Projects
 ## PAC
-A VR E-Learning in which students build a PEMFC (Proton-Exchange Membrane Fuel Cell) then use it to move a car on a track model by tweaking the intensity. They'll be able to mesure data like thermal loss, voltage, air flow, dihydrogen flow, azote usage, and much more. In the future, i hope being able to turn it into a serious game which would motivate more students to train while having fun.
+&emsp;A VR E-Learning in which students build a PEMFC (Proton-Exchange Membrane Fuel Cell) then use it to move a car on a track model by tweaking the intensity. They'll be able to mesure data like thermal loss, voltage, air flow, dihydrogen flow, azote usage, and much more. In the future, i hope being able to turn it into a serious game which would motivate more students to train while having fun.
 
 Image comming soon TM
 
@@ -70,4 +70,4 @@ Image comming soon TM
 
 &emsp;Players can move arround by pedaling to charge the batery of the tractor and use the motorbike potentiometer implemented on the exercise bike to accelerate. They are given tasks that they must complete within the time limit in order to win the game.
 
-The time limit was implemented in order to prevent people from staying too long on the stand.
+&emsp;The time limit was implemented in order to prevent people from staying too long on the stand.
