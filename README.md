@@ -1,12 +1,12 @@
 Hello! Online I am refered to as "Kiryonn". I Just started my 2nd game dev master year.<br>
 Here is a list of things i worked with (sorted alphabetically):
+- [Projects](#projects)
 - [Languages](#languages)
 - [IDEs](#ides)
 - [Game Engines](#game-engines)
 - [Versionning Tools](#versionning-tools)
 - [Music Tools](#music-tools)
 - [Graphic Tools](#graphic-tools)
-- [Projects](#projects)
 
 
 # Projects
