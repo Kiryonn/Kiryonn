@@ -1,5 +1,5 @@
-Hello! Online I am refered to as "Kiryonn". I Just started my 2nd game dev master year.<br>
-Here is a list of things i worked with (sorted alphabetically):
+Hello! Online I am refered to as "Kiryonn". I Just started my 2nd master year of game dev.<br>
+Here is a list of things i worked on/with:
 - [Projects](#projects)
 - [Languages](#languages)
 - [IDEs](#ides)
