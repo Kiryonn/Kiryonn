@@ -36,39 +36,39 @@ Image comming soon TM
 - Lua
 - Markdown
 - OCaml
-- Python
+- [Python](https://www.python.org)
 - TOML
 - XML
 - YML
 
 # IDEs
-- Arduino
-- Godot (built-in IDE)
-- Idea
-- IDLE
-- Pycharm
-- Rider
-- Visual Studio Code
+- [Arduino](https://apps.microsoft.com/detail/9NBLGGH4RSD8?hl=en-us&gl=US)
+- [Godot (built-in IDE)](https://godotengine.org)
+- [IDLE](https://www.python.org/downloads/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Pycharm](https://www.jetbrains.com/pycharm/)
+- [Rider](https://www.jetbrains.com/rider/)
+- [Visual Studio Code](https://code.visualstudio.com)
 
 # Game Engines
-- Godot
-- Unity
+- [Godot](https://godotengine.org)
+- [Unity](https://unity.com)
 
 # Versionning Tools
-- Git
-- Git Kraken
-- GitHub
-- GitHub Desktop
+- [Git](https://git-scm.com)
+- [Git Kraken](https://www.gitkraken.com)
+- [GitHub](https://github.com)
+- [GitHub Desktop](https://desktop.github.com)
 
 # Music Tools
-- Audacity
-- ChordChord
-- LMMS
+- [Audacity](https://www.audacityteam.org)
+- [ChordChord](https://chordchord.com)
+- [LMMS](https://lmms.io)
 
 # Graphic Tools
-- Blender
-- Illustrator
-- Inkscape
-- Krita
+- [Blender](https://www.blender.org)
+- [Illustrator](https://www.adobe.com/products/illustrator.html)
+- [Inkscape](https://inkscape.org)
+- [Krita](https://krita.org/en/)
 - Paint.net
-- Photoshop
+- [Photoshop](https://www.adobe.com/products/photoshop.html)
