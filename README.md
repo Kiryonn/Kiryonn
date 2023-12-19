@@ -22,7 +22,7 @@ Image comming soon TM
 &emsp;The time limit was implemented in order to prevent people from staying too long on the stand.
 
 
-<br>
+<br><br>
 # Languages
 - C
 - C#
