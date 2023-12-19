@@ -8,7 +8,7 @@ Here is a list of things i worked with (sorted alphabetically):
 - [Graphic Tools](#graphic-tools)
 - [Projects](#projects)
 
-## Languages
+# Languages
 - C
 - C#
 - C++
@@ -26,7 +26,7 @@ Here is a list of things i worked with (sorted alphabetically):
 - XML
 - YML
 
-## IDEs
+# IDEs
 - Arduino
 - Godot (built-in IDE)
 - Idea
@@ -35,22 +35,22 @@ Here is a list of things i worked with (sorted alphabetically):
 - Rider
 - Visual Studio Code
 
-## Game Engines
+# Game Engines
 - Godot
 - Unity
 
-## Versionning Tools
+# Versionning Tools
 - Git
 - Git Kraken
 - GitHub
 - GitHub Desktop
 
-## Music Tools
+# Music Tools
 - Audacity
 - ChordChord
 - LMMS
 
-## Graphic Tools
+# Graphic Tools
 - Blender
 - Illustrator
 - Inkscape
@@ -58,9 +58,9 @@ Here is a list of things i worked with (sorted alphabetically):
 - Paint.net
 - Photoshop
 
-## Projects
-### PAC
+# Projects
+## PAC
 Coming soon
 
-### Tracteur en selle
+## Tracteur en selle
 <img src="images/Tracteur%20en%20selle.jpg" width="60%" />
