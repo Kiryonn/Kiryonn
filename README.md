@@ -1,9 +1,9 @@
 Hello! Online I am refered to as "Kiryonn". I Just started my 2nd master year of game dev.<br>
 Here is a list of things i worked on/with:
 - [Projects](#projects)
+- [Game Engines](#game-engines)
 - [Languages](#languages)
 - [IDEs](#ides)
-- [Game Engines](#game-engines)
 - [Versionning Tools](#versionning-tools)
 - [Music Tools](#music-tools)
 - [Graphic Tools](#graphic-tools)
@@ -23,6 +23,11 @@ Image comming soon TM
 
 
 <br><br>
+
+# Game Engines
+- [Godot](https://godotengine.org)
+- [Unity](https://unity.com)
+
 # Languages
 - C
 - C#
@@ -49,10 +54,6 @@ Image comming soon TM
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Rider](https://www.jetbrains.com/rider/)
 - [Visual Studio Code](https://code.visualstudio.com)
-
-# Game Engines
-- [Godot](https://godotengine.org)
-- [Unity](https://unity.com)
 
 # Versionning Tools
 - [Git](https://git-scm.com)
