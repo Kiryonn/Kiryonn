@@ -1,4 +1,4 @@
-Hello! Online I am refered to as "Kiryonn". I Just started my 2nd master year of game dev.<br>
+Hello! Online I am refered to as "Kiryonn". I Just finished my 2nd master year of game dev.<br>
 Here is a list of things i worked on/with:
 - [Projects](#projects)
 - [Game Engines](#game-engines)
