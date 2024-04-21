@@ -2,7 +2,7 @@ Hello! Online I am refered to as "Kiryonn". I Just "finished" my 2nd master year
 Here is a list of things i worked on/with:
 - [Projects](#projects)
 - [Game Engines](#game-engines)
-- [Languages](#languages)
+- [Languages Used](#languages-used)
 - [IDEs](#ides)
 - [Versionning Tools](#versionning-tools)
 - [Music Tools](#music-tools)
@@ -32,7 +32,7 @@ Image comming soon TM
 - Pygame
 - Tkinter
 
-# Languages
+# Languages Used
 - C
 - C#
 - C++
