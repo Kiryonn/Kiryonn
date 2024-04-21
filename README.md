@@ -76,5 +76,5 @@ Image comming soon TM
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
 - [Inkscape](https://inkscape.org)
 - [Krita](https://krita.org/en/)
-- Paint.net
+- [Paint.net](https://www.getpaint.net/index.html)
 - [Photoshop](https://www.adobe.com/products/photoshop.html)
