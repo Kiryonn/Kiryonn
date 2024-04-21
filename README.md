@@ -1,5 +1,5 @@
 Hello! Online I am refered to as "Kiryonn". I Just "finished" my 2nd game dev master year (still have internship to complete + orals).<br>
-My main abilities are programming and game design but I can also create somewhat decent UIs and sounds.
+My main abilities are programming and game design but I can also create some decent UIs and sounds.
 Here is a list of things i worked on/with:
 - [Projects](#projects)
 - [Game Engines](#game-engines)
