@@ -57,8 +57,8 @@ Image comming soon TM
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Rider](https://www.jetbrains.com/rider/)
-- [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 - [Visual Studio Code](https://code.visualstudio.com)
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 
 # Versionning Tools
 - [Git](https://git-scm.com)
