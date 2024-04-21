@@ -45,7 +45,7 @@ Image comming soon TM
 - Lua
 - Markdown
 - OCaml
-- [Python](https://www.python.org)
+- Python
 - TOML
 - XML
 - YML
