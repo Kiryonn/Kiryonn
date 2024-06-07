@@ -20,6 +20,7 @@ Here is a list of things i worked on/with:
   </div>
 </div>
 <br clear="left"/>
+<br clear="right"/>
 
 ### Tracteur en selle
 <div>
@@ -30,7 +31,8 @@ Here is a list of things i worked on/with:
     <p>The time limit was implemented in order to prevent people from staying too long on the stand.</p>
   </div>
 </div>
-<br><br><br><br><br clear="left"/>
+<br clear="left"/>
+<br clear="right"/>
 
 ## Game Engines
 - [Godot](https://godotengine.org)
