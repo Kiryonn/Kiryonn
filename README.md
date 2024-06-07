@@ -11,10 +11,9 @@ Here is a list of things i worked on/with:
 
 
 # Projects
-## PAC VR
-&emsp;A VR E-Learning in which students build a PEMFC (Proton-Exchange Membrane Fuel Cell) then use it to move a car on a track model by tweaking the intensity. They'll be able to mesure data like thermal loss, voltage, air flow, dihydrogen flow, azote usage, and much more. In the future, i hope being able to turn it into a serious game which would motivate more students to train while having fun.
+## Fuel Cell Virtual Training
 
-Image comming soon TM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ERMEabe65o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tracteur en selle
 <img src="images/Tracteur%20en%20selle.jpg" width="40%" align="right"/>
