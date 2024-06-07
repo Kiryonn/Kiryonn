@@ -12,8 +12,8 @@ Here is a list of things i worked on/with:
 
 # Projects
 ## Fuel Cell Virtual Training
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ERMEabe65o" frameborder="0" allowfullscreen></iframe>
+FCVT is a serious game made to train students on hydrogen fuel cells (PEMFC - proton exchange membrane fuel cell).<br>
+Here is the promotional video https://www.youtube.com/embed/5ERMEabe65o
 
 ## Tracteur en selle
 <img src="images/Tracteur%20en%20selle.jpg" width="40%" align="right"/>
