@@ -11,19 +11,25 @@ Here is a list of things i worked on/with:
 
 
 # Projects
-## Fuel Cell Virtual Training
-![FCVT](images/FCVT.png)
-FCVT is a serious game made to train students on hydrogen fuel cells (PEMFC - proton exchange membrane fuel cell).<br>
-Here is the promotional video https://www.youtube.com/embed/5ERMEabe65o
+<h2>Fuel Cell Virtual Training</h2>
+<div>
+  <img src="images/FCVT.png" width="40%" align="left" valign="center"/>
+  <div align="right">
+    <p>FCVT is a serious game made to train students on hydrogen fuel cells (PEMFC - proton exchange membrane fuel cell).</p>
+    <p>Here is the promotional video https://www.youtube.com/embed/5ERMEabe65o</p>
+  </div>
+</div>
 
-## Tracteur en selle
-<img src="images/Tracteur%20en%20selle.jpg" width="40%" align="right"/>
-&emsp;A Serious game commissioned by the MSA (Mutuelle Santé Agricole) to present on a convention stand. It uses custom made equipments (modified exercise bike).<br><br>
-&emsp;Players can move arround by pedaling to charge the batery of the tractor and use the motorbike potentiometer implemented on the exercise bike to accelerate. They are given tasks that they must complete within the time limit in order to win the game.<br><br>
-&emsp;The time limit was implemented in order to prevent people from staying too long on the stand.
+<h2>Tracteur en selle</h2>
+<div>
+  <div align="left">
+    <p>A Serious game commissioned by the MSA (Mutuelle Santé Agricole) to present on a convention stand. It uses custom made equipments (modified exercise bike).<br></p>
+    <p>Players can move arround by pedaling to charge the batery of the tractor and use the motorbike potentiometer implemented on the exercise bike to accelerate. They are given tasks that they must complete within the time limit in order to win the game.</p>
+    <p>The time limit was implemented in order to prevent people from staying too long on the stand.</p>
+  </div>
+  <img src="images/Tracteur%20en%20selle.jpg" width="40%" align="right"/>
+</div>
 
-
-<br><br>
 
 # Game Engines
 - [Godot](https://godotengine.org)
