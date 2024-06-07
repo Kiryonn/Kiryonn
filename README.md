@@ -10,28 +10,29 @@ Here is a list of things i worked on/with:
 - [Graphic Tools](#graphic-tools)
 
 
-# Projects
-## Fuel Cell Virtual Training</h2>
-<div style="display:inline-block;">
-  <img src="images/FCVT.png" width=40% align="left>
-  <div align="right" style="display:block;">
+## Projects
+### Fuel Cell Virtual Training
+<div>
+  <img align="left" src="images/FCVT.png" width=50%>
+  <div align="right">
     <p>FCVT is a serious game made to train students on hydrogen fuel cells (PEMFC - proton exchange membrane fuel cell).</p>
     <p>Here is the promotional video https://www.youtube.com/embed/5ERMEabe65o</p>
   </div>
 </div>
+<br clear="left"/>
 
-<h2>Tracteur en selle</h2>
-<div display="inline-block">
-  <div align="left" style="display:block;">
+### Tracteur en selle
+<div>
+  <img align="right" src="images/Tracteur%20en%20selle.jpg" width="50%" />
+  <div align="left">
     <p>A Serious game commissioned by the MSA (Mutuelle Santé Agricole) to present on a convention stand. It uses custom made equipments (modified exercise bike).<br></p>
     <p>Players can move arround by pedaling to charge the batery of the tractor and use the motorbike potentiometer implemented on the exercise bike to accelerate. They are given tasks that they must complete within the time limit in order to win the game.</p>
     <p>The time limit was implemented in order to prevent people from staying too long on the stand.</p>
   </div>
-  <img src="images/Tracteur%20en%20selle.jpg" width="40%" align="right"/>
 </div>
+<br><br><br><br><br clear="left"/>
 
-
-# Game Engines
+## Game Engines
 - [Godot](https://godotengine.org)
 - [Unity](https://unity.com)
 ### Language packages to make a game
@@ -39,7 +40,7 @@ Here is a list of things i worked on/with:
 - Pygame
 - Tkinter
 
-# Languages Used
+## Languages Used
 - C
 - C#
 - C++
@@ -57,7 +58,7 @@ Here is a list of things i worked on/with:
 - XML
 - YML
 
-# IDEs
+## IDEs
 - [Arduino](https://apps.microsoft.com/detail/9NBLGGH4RSD8?hl=en-us&gl=US)
 - [Godot (built-in IDE)](https://godotengine.org)
 - [IDLE](https://www.python.org/downloads/)
@@ -67,18 +68,18 @@ Here is a list of things i worked on/with:
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 
-# Versionning Tools
+## Versionning Tools
 - [Git](https://git-scm.com)
 - [Git Kraken](https://www.gitkraken.com)
 - [GitHub](https://github.com)
 - [GitHub Desktop](https://desktop.github.com)
 
-# Music Tools
+## Music Tools
 - [Audacity](https://www.audacityteam.org)
 - [ChordChord](https://chordchord.com)
 - [LMMS](https://lmms.io)
 
-# Graphic Tools
+## Graphic Tools
 - [Blender](https://www.blender.org)
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
 - [Inkscape](https://inkscape.org)
