@@ -38,7 +38,6 @@ Here is a list of things i worked on/with:
 ## Game Engines
 - [Godot](https://godotengine.org)
 - [Unity](https://unity.com)
-### Language packages to make a game
 - Java Swing
 - Pygame
 - Tkinter
