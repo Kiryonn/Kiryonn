@@ -52,14 +52,10 @@ Here is a list of things i worked on/with:
 - GDScript
 - Java
 - JavaScript
-- JSON
 - Lua
 - Markdown
 - OCaml
 - Python
-- TOML
-- XML
-- YML
 
 ## IDEs
 - [Arduino](https://apps.microsoft.com/detail/9NBLGGH4RSD8?hl=en-us&gl=US)
@@ -71,21 +67,33 @@ Here is a list of things i worked on/with:
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 
-## Versionning Tools
+## Versionning Tools used
 - [Git](https://git-scm.com)
-- [Git Kraken](https://www.gitkraken.com)
+- [GitLab](https://about.gitlab.com/)
 - [GitHub](https://github.com)
 - [GitHub Desktop](https://desktop.github.com)
+- [Visual Studio Code (built-in git control)](https://code.visualstudio.com)
 
-## Music Tools
+## Music Tools used
 - [Audacity](https://www.audacityteam.org)
 - [ChordChord](https://chordchord.com)
 - [LMMS](https://lmms.io)
 
-## Graphic Tools
+## Graphic Tools used
 - [Blender](https://www.blender.org)
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
 - [Inkscape](https://inkscape.org)
 - [Krita](https://krita.org/en/)
 - [Paint.net](https://www.getpaint.net/index.html)
 - [Photoshop](https://www.adobe.com/products/photoshop.html)
+
+## Data Formats used
+### Human readable
+- JSON
+- TOML
+- XML
+- YAML
+- YML
+### Binary
+- [Flatbuffers](https://flatbuffers.dev/)
+- [Protobuffers](https://protobuf.dev/)
