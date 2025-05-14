@@ -35,7 +35,7 @@ Here is a list of things i worked on/with:
 <br clear="left"/>
 <br clear="right"/>
 
-## Game Engines
+## Game Engines used
 - [Godot](https://godotengine.org)
 - [Unity](https://unity.com)
 - Java Swing
@@ -56,7 +56,7 @@ Here is a list of things i worked on/with:
 - OCaml
 - Python
 
-## IDEs
+## IDEs used
 - [Arduino](https://apps.microsoft.com/detail/9NBLGGH4RSD8?hl=en-us&gl=US)
 - [Godot (built-in IDE)](https://godotengine.org)
 - [IDLE](https://www.python.org/downloads/)
