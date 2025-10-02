@@ -23,10 +23,16 @@ To get an idea of my workflow, here is a list of tools I work with:
 
 ## Game Engines
 
-<div style="display:inline table">
-  <a href="https://godotengine.org"><img src="images/godot_logo.png" height="100" width="150"></a>&emsp;
-  <a href="https://unity.com"><img src="images/unity_logo.png" height="100" width="150"></a>
-</div>
+<table>
+  <tr>
+    <td border="0">
+      <a href="https://godotengine.org"><img src="images/godot_logo.png" height="100" width="150"></a>
+    </td>
+    <td border="0">
+      <a href="https://unity.com"><img src="images/unity_logo.png" height="100" width="150"></a>
+    </td>
+  </tr>
+</table>
 
 ## Interface Making Tools
 - Tkinter
