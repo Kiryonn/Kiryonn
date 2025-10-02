@@ -3,35 +3,35 @@ My main focus is creating tools for others, but I have created games, serious ga
 
 To get an idea of my workflow, here is a list of tools I work with:
 <table>
-  <tr>
-    <td><a href="#game-engines">Game Engines</a></td>
-    <td><a href="#interface-making-tools">Interface Making Tools</a></td>
-    <td><a href="#languages">Languages</a></td>
-    <td><a href="#ides">IDEs</a></td>
-    <td><a href="#versionning">Versionning</a></td>
-  </tr>
-  <tr>
-    <td><a href="#music-tools">Music</a></td>
-    <td><a href="#graphic-tools">Graphics</a></td>
-    <td><a href="#management-tools">Management</a></td>
-    <td><a href="#data-formats">Data Formats</a></td>
-    <td><a href="#other">Other</a></td>
-  </tr>
+	<tr>
+		<td><a href="#game-engines">Game Engines</a></td>
+		<td><a href="#interface-making-tools">Interface Making Tools</a></td>
+		<td><a href="#languages">Languages</a></td>
+		<td><a href="#ides">IDEs</a></td>
+		<td><a href="#versionning">Versionning</a></td>
+	</tr>
+	<tr>
+		<td><a href="#music-tools">Music</a></td>
+		<td><a href="#graphic-tools">Graphics</a></td>
+		<td><a href="#management-tools">Management</a></td>
+		<td><a href="#data-formats">Data Formats</a></td>
+		<td><a href="#other">Other</a></td>
+	</tr>
 </table>
 
 ---
 
 ## Game Engines
 
-<table>
-  <tr>
-    <td border="0">
-      <a href="https://godotengine.org"><img src="images/godot_logo.png" height="100" width="150"></a>
-    </td>
-    <td border="0">
-      <a href="https://unity.com"><img src="images/unity_logo.png" height="100" width="150"></a>
-    </td>
-  </tr>
+<table border="0">
+	<tr border="0">
+		<td border="0">
+			<a href="https://godotengine.org"><img src="images/godot_logo.png" height="100" width="150"></a>
+		</td>
+		<td border="0">
+			<a href="https://unity.com"><img src="images/unity_logo.png" height="100" width="150"></a>
+		</td>
+	</tr>
 </table>
 
 ## Interface Making Tools
@@ -41,28 +41,28 @@ To get an idea of my workflow, here is a list of tools I work with:
 
 ## Languages
 <table>
-  <tr><td colspan="10" align="center">Main</td></tr>
-  <tr>
-    <td colspan="6">C#</td>
-    <td colspan="4">GDScript</td>
-  </tr>
-  <tr><td colspan="10" align="center">Secondary</td></tr>
-  <tr>
-    <td colspan="7">Python</td>
-    <td colspan="3">Java</td>
-  </tr>
-  <tr><td colspan="10" align="center">Others</td></tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>TypeScript</td>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>Caml</td>
-    <td>Rust</td>
-    <td>C</td>
-    <td>C++</td>
-    <td>Lua</td>
-  </tr>
+	<tr><td colspan="10" align="center">Main</td></tr>
+	<tr>
+		<td colspan="6">C#</td>
+		<td colspan="4">GDScript</td>
+	</tr>
+	<tr><td colspan="10" align="center">Secondary</td></tr>
+	<tr>
+		<td colspan="7">Python</td>
+		<td colspan="3">Java</td>
+	</tr>
+	<tr><td colspan="10" align="center">Others</td></tr>
+	<tr>
+		<td>JavaScript</td>
+		<td>TypeScript</td>
+		<td>HTML</td>
+		<td>CSS</td>
+		<td>Caml</td>
+		<td>Rust</td>
+		<td>C</td>
+		<td>C++</td>
+		<td>Lua</td>
+	</tr>
 </table>
 
 ## IDEs
